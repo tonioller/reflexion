@@ -10,8 +10,6 @@ import java.lang.reflect.Method;
 public class RefectionTest {
 
 
-
-
     @Test
     public void basic() throws Exception {
 
